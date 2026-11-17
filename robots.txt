@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://drclebersilva.com.br/sitemap.xml
